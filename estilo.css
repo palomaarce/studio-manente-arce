@@ -1,0 +1,113 @@
+.cabeçalho{
+	width:100%;
+	height:120px;
+	background-color:#FFFFFF;
+}
+
+.img-cabeçalho{
+	margin-left:20%;
+}
+
+li{
+	margin-top:10%;
+}
+
+#menu a:hover{
+	color:#41B890;
+}
+
+#menu{
+	margin-left:50%;
+}
+
+#logo{
+	margin-top:0px;
+}
+
+.item{
+	color: #41B890;
+	font-size: medium;
+}
+
+.rodape{
+	width: 100%;
+	height: auto;
+	background-color: rgba(65, 184, 144, 0.3);
+}
+
+.logoRodape{
+	display: block;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.informacoes{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #696969;
+}
+
+.logoSocial{
+	opacity: 0.5;
+	margin:5px;
+}
+
+#ladoalado{
+	display: flex; /* coloca as imagens uma ao lado da outra */
+	justify-content: center; /* alinha as imagens no centro da tela */
+}
+
+#apresentacao{
+	height: auto;
+	background-image: url(background.png);
+	
+}
+
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#4F4F4F;
+}
+
+p{
+	text-align: justify center;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	margin-top: 2%;
+}
+
+#portfolio{
+	margin-top:5%;
+}
+
+#contato{
+	/*background-color: rgba(79,79,79,0.3);*/
+	background-image: url("backgroundCinza.jpg");
+	opacity: 0.6;
+	height: auto;
+}
+
+.borda{
+	height: auto;
+	width: auto;
+	
+}
+
+#contato h2{
+	text-align: center;
+	color: #41B890;
+}
+
+#botao{
+	background-color: #41B890;
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
